@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-D:/Facultate/An 4/Semester 1/SE/Project/Lessori App/Vuforia Project/vuforia-ar/Builds/test_ui_v2.apk
+D:/Facultate/An 4/Semester 1/SE/Project/Lessori App/Vuforia Project/vuforia-ar/Builds/test_ui_v3.apk
 SceneListBegin?
 Assets/Scenes/Menu.unity
 Assets/Scenes/AR.unity
@@ -226,6 +226,7 @@ fe10de86e42ce80dc24cf76ac1c87c2a Vuforia.UnityExtensions.dll:Vuforia.VuforiaConf
 69167579cf7fcbb2676fc1e675963dcd Vuforia.UnityExtensions.dll:Vuforia.VuMarkBehaviour
 fbbf64dcbe0662e3eda1dec45ea8f895 Vuforia.UnityExtensions.dll:Vuforia.WireframeBehaviour
 71bb6a6b6c8f052f948db64c7dd3ca4f Vuforia.UnityExtensions.dll:Vuforia.WireframeTrackableEventHandler
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.MainMenu
 290afc8da8e459e0b8dc7444bfaf5e35 Unity.XR.ARFoundation.dll:UnityEngine.XR.ARFoundation.ARParticipant
 71bb6a6b6c8f052f948db64c7dd3ca4f Unity.XR.ARFoundation.dll:UnityEngine.XR.ARFoundation.ARPlaneMeshVisualizer
 ef705ae677d649d6c0ff3b4060963abd Unity.XR.ARFoundation.dll:UnityEngine.XR.ARFoundation.ARTrackedObjectManager
@@ -389,4 +390,17 @@ fe10de86e42ce80dc24cf76ac1c87c2a Vuforia.UnityExtensions.dll:Vuforia.VuforiaConf
 69167579cf7fcbb2676fc1e675963dcd Vuforia.UnityExtensions.dll:Vuforia.VuMarkBehaviour
 fbbf64dcbe0662e3eda1dec45ea8f895 Vuforia.UnityExtensions.dll:Vuforia.WireframeBehaviour
 71bb6a6b6c8f052f948db64c7dd3ca4f Vuforia.UnityExtensions.dll:Vuforia.WireframeTrackableEventHandler
-71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.MainMenu
+a7a502d2f97d22da5357c37cdd5562da Unity.Formats.USD.Runtime.dll:Unity.Formats.USD.UsdRecorderClip
+2445dcf97f9a2ff5b8851bde48140207 Unity.Formats.USD.Runtime.dll:Unity.Formats.USD.UsdAsset
+65cc4eb96052f0f43c7df774a971fba3 Unity.Formats.USD.Runtime.dll:Unity.Formats.USD.UsdVariantSet
+71bb6a6b6c8f052f948db64c7dd3ca4f Unity.Formats.USD.Runtime.dll:Unity.Formats.USD.UsdAssemblyRoot
+0023ebb911f00dfec117667be796e34d Unity.Formats.USD.Runtime.dll:Unity.Formats.USD.UsdPlayableAsset
+8018268aef26162e25ecf913e73aeebe Unity.Formats.USD.Runtime.dll:Unity.Formats.USD.UsdModelRoot
+304c44a7cbaa2c0c23f9d2f3bc27c5f1 Unity.Formats.USD.Runtime.dll:Unity.Formats.USD.UsdPrimSource
+e1bbf0ab858085e38fae6b12ebbdcd35 Unity.Formats.USD.Runtime.dll:Unity.Formats.USD.UsdPlayableTrack
+3844783d70d20f9f183aefcd52c14901 Unity.Formats.USD.Runtime.dll:Unity.Formats.USD.UsdLayerStack
+d8ea8527818d9653ed00222a106a5372 Unity.Formats.USD.Runtime.dll:Unity.Formats.USD.UsdPayload
+a589b3ec522de52b6a1d86391f934b00 Unity.Formats.USD.Runtime.dll:Unity.Formats.USD.SkinnedMeshUnityDiff
+71bb6a6b6c8f052f948db64c7dd3ca4f Unity.Formats.USD.Runtime.dll:Unity.Formats.USD.UsdWaitForEndOfFrame
+74f8d7a7cf257cae2c7bda6e08bb3e64 Unity.Formats.USD.Runtime.dll:Unity.Formats.USD.SkinnedMeshUsdDiff
+e1bbf0ab858085e38fae6b12ebbdcd35 Unity.Formats.USD.Runtime.dll:Unity.Formats.USD.UsdRecorderTrack

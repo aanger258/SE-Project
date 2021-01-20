@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{F02C2753-070A-FBE6-0ECA-3D833115B97E}</ProjectGuid>
+    <ProjectGuid>{280D88D2-C3F4-57FE-5709-F8BF5033925C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>VuforiaScripts</AssemblyName>
@@ -309,22 +309,28 @@
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/16.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
-      <HintPath>D:/Facultate/An 4/Semester 1/SE/Project/Lessori App/Vuforia Project/vuforia-ar/Assets/JsonDotNet/Assemblies/Standalone/Newtonsoft.Json.dll</HintPath>
+      <HintPath>D:/Facultate/An 4/Semester 1/SE/Project/New folder/SE-Project/Assets/JsonDotNet/Assemblies/Standalone/Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="zxing.unity">
-      <HintPath>D:/Facultate/An 4/Semester 1/SE/Project/Lessori App/Vuforia Project/vuforia-ar/Assets/Plugins/zxing.unity.dll</HintPath>
+      <HintPath>D:/Facultate/An 4/Semester 1/SE/Project/New folder/SE-Project/Assets/Plugins/zxing.unity.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Advertisements">
-      <HintPath>D:/Facultate/An 4/Semester 1/SE/Project/Lessori App/Vuforia Project/vuforia-ar/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
+      <HintPath>D:/Facultate/An 4/Semester 1/SE/Project/New folder/SE-Project/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>D:/Facultate/An 4/Semester 1/SE/Project/Lessori App/Vuforia Project/vuforia-ar/Library/PackageCache/com.unity.analytics@3.2.3/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>D:/Facultate/An 4/Semester 1/SE/Project/New folder/SE-Project/Library/PackageCache/com.unity.analytics@3.2.3/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>D:/Facultate/An 4/Semester 1/SE/Project/Lessori App/Vuforia Project/vuforia-ar/Library/PackageCache/com.unity.analytics@3.2.3/Editor/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>D:/Facultate/An 4/Semester 1/SE/Project/New folder/SE-Project/Library/PackageCache/com.unity.analytics@3.2.3/Editor/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>D:/Facultate/An 4/Semester 1/SE/Project/Lessori App/Vuforia Project/vuforia-ar/Library/PackageCache/com.unity.analytics@3.2.3/Editor/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>D:/Facultate/An 4/Semester 1/SE/Project/New folder/SE-Project/Library/PackageCache/com.unity.analytics@3.2.3/Editor/Unity.Analytics.Tracker.dll</HintPath>
+    </Reference>
+    <Reference Include="USD.NET.Unity">
+      <HintPath>D:/Facultate/An 4/Semester 1/SE/Project/New folder/SE-Project/Library/PackageCache/com.unity.formats.usd@1.0.3-preview.2/Runtime/Plugins/USD.NET.Unity.dll</HintPath>
+    </Reference>
+    <Reference Include="USD.NET">
+      <HintPath>D:/Facultate/An 4/Semester 1/SE/Project/New folder/SE-Project/Library/PackageCache/com.unity.formats.usd@1.0.3-preview.2/Runtime/Plugins/USD.NET.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.4.30f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>

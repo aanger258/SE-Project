@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{D43063A4-9FEE-7F95-D27A-109A43C194A4}</ProjectGuid>
+    <ProjectGuid>{B9C9BE1A-411F-D1CB-BBED-BD14B12A1A20}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -126,6 +126,7 @@
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Masking.shader" />
     <None Include="Assets\StreamingAssets\Vuforia\VuforiaMars_Images.xml" />
     <None Include="Assets\JsonDotNet\link.xml" />
+    <None Include="Assets\obj\readme.txt" />
     <None Include="Assets\TextMesh Pro\Examples &amp; Extras\Fonts\Anton OFL.txt" />
     <None Include="Assets\TextMesh Pro\Examples &amp; Extras\Fonts\Bangers - OFL.txt" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Mobile.shader" />
@@ -146,40 +147,52 @@
     <None Include="Assets\Vuforia\Shaders\Text3D.shader" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader" />
     <Reference Include="Unity.Subsystem.Registration">
-      <HintPath>D:/Facultate/An 4/Semester 1/SE/Project/Lessori App/Vuforia Project/vuforia-ar/Library/ScriptAssemblies/Unity.Subsystem.Registration.dll</HintPath>
+      <HintPath>D:/Facultate/An 4/Semester 1/SE/Project/New folder/SE-Project/Library/ScriptAssemblies/Unity.Subsystem.Registration.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.ARSubsystems">
-      <HintPath>D:/Facultate/An 4/Semester 1/SE/Project/Lessori App/Vuforia Project/vuforia-ar/Library/ScriptAssemblies/Unity.XR.ARSubsystems.dll</HintPath>
+      <HintPath>D:/Facultate/An 4/Semester 1/SE/Project/New folder/SE-Project/Library/ScriptAssemblies/Unity.XR.ARSubsystems.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.ARSubsystems.Editor">
-      <HintPath>D:/Facultate/An 4/Semester 1/SE/Project/Lessori App/Vuforia Project/vuforia-ar/Library/ScriptAssemblies/Unity.XR.ARSubsystems.Editor.dll</HintPath>
+      <HintPath>D:/Facultate/An 4/Semester 1/SE/Project/New folder/SE-Project/Library/ScriptAssemblies/Unity.XR.ARSubsystems.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Purchasing">
-      <HintPath>D:/Facultate/An 4/Semester 1/SE/Project/Lessori App/Vuforia Project/vuforia-ar/Library/ScriptAssemblies/UnityEngine.Purchasing.dll</HintPath>
+      <HintPath>D:/Facultate/An 4/Semester 1/SE/Project/New folder/SE-Project/Library/ScriptAssemblies/UnityEngine.Purchasing.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Purchasing">
-      <HintPath>D:/Facultate/An 4/Semester 1/SE/Project/Lessori App/Vuforia Project/vuforia-ar/Library/ScriptAssemblies/UnityEditor.Purchasing.dll</HintPath>
+      <HintPath>D:/Facultate/An 4/Semester 1/SE/Project/New folder/SE-Project/Library/ScriptAssemblies/UnityEditor.Purchasing.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.ARFoundation.Editor">
-      <HintPath>D:/Facultate/An 4/Semester 1/SE/Project/Lessori App/Vuforia Project/vuforia-ar/Library/ScriptAssemblies/Unity.XR.ARFoundation.Editor.dll</HintPath>
+      <HintPath>D:/Facultate/An 4/Semester 1/SE/Project/New folder/SE-Project/Library/ScriptAssemblies/Unity.XR.ARFoundation.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:/Facultate/An 4/Semester 1/SE/Project/Lessori App/Vuforia Project/vuforia-ar/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>D:/Facultate/An 4/Semester 1/SE/Project/New folder/SE-Project/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.ARFoundation">
-      <HintPath>D:/Facultate/An 4/Semester 1/SE/Project/Lessori App/Vuforia Project/vuforia-ar/Library/ScriptAssemblies/Unity.XR.ARFoundation.dll</HintPath>
+      <HintPath>D:/Facultate/An 4/Semester 1/SE/Project/New folder/SE-Project/Library/ScriptAssemblies/Unity.XR.ARFoundation.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>D:/Facultate/An 4/Semester 1/SE/Project/Lessori App/Vuforia Project/vuforia-ar/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>D:/Facultate/An 4/Semester 1/SE/Project/New folder/SE-Project/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>D:/Facultate/An 4/Semester 1/SE/Project/Lessori App/Vuforia Project/vuforia-ar/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>D:/Facultate/An 4/Semester 1/SE/Project/New folder/SE-Project/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/Facultate/An 4/Semester 1/SE/Project/Lessori App/Vuforia Project/vuforia-ar/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>D:/Facultate/An 4/Semester 1/SE/Project/New folder/SE-Project/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>D:/Facultate/An 4/Semester 1/SE/Project/Lessori App/Vuforia Project/vuforia-ar/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+      <HintPath>D:/Facultate/An 4/Semester 1/SE/Project/New folder/SE-Project/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Timeline.Editor">
+      <HintPath>D:/Facultate/An 4/Semester 1/SE/Project/New folder/SE-Project/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Formats.USD.Runtime">
+      <HintPath>D:/Facultate/An 4/Semester 1/SE/Project/New folder/SE-Project/Library/ScriptAssemblies/Unity.Formats.USD.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Timeline">
+      <HintPath>D:/Facultate/An 4/Semester 1/SE/Project/New folder/SE-Project/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Formats.USD.Editor">
+      <HintPath>D:/Facultate/An 4/Semester 1/SE/Project/New folder/SE-Project/Library/ScriptAssemblies/Unity.Formats.USD.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.4.30f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -383,13 +396,19 @@
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.4.30f1/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
-      <HintPath>D:/Facultate/An 4/Semester 1/SE/Project/Lessori App/Vuforia Project/vuforia-ar/Assets/JsonDotNet/Assemblies/Standalone/Newtonsoft.Json.dll</HintPath>
+      <HintPath>D:/Facultate/An 4/Semester 1/SE/Project/New folder/SE-Project/Assets/JsonDotNet/Assemblies/Standalone/Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="zxing.unity">
-      <HintPath>D:/Facultate/An 4/Semester 1/SE/Project/Lessori App/Vuforia Project/vuforia-ar/Assets/Plugins/zxing.unity.dll</HintPath>
+      <HintPath>D:/Facultate/An 4/Semester 1/SE/Project/New folder/SE-Project/Assets/Plugins/zxing.unity.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>D:/Facultate/An 4/Semester 1/SE/Project/Lessori App/Vuforia Project/vuforia-ar/Library/PackageCache/com.unity.analytics@3.2.3/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>D:/Facultate/An 4/Semester 1/SE/Project/New folder/SE-Project/Library/PackageCache/com.unity.analytics@3.2.3/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
+    </Reference>
+    <Reference Include="USD.NET.Unity">
+      <HintPath>D:/Facultate/An 4/Semester 1/SE/Project/New folder/SE-Project/Library/PackageCache/com.unity.formats.usd@1.0.3-preview.2/Runtime/Plugins/USD.NET.Unity.dll</HintPath>
+    </Reference>
+    <Reference Include="USD.NET">
+      <HintPath>D:/Facultate/An 4/Semester 1/SE/Project/New folder/SE-Project/Library/PackageCache/com.unity.formats.usd@1.0.3-preview.2/Runtime/Plugins/USD.NET.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.4.30f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
@@ -739,15 +758,15 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="VuforiaScripts.csproj">
-      <Project>{F02C2753-070A-FBE6-0ECA-3D833115B97E}</Project>
+      <Project>{280D88D2-C3F4-57FE-5709-F8BF5033925C}</Project>
       <Name>VuforiaScripts</Name>
     </ProjectReference>
     <ProjectReference Include="VuforiaEditorScripts.csproj">
-      <Project>{66831301-245D-AEFE-4C9E-8D395DC04440}</Project>
+      <Project>{EBA7252F-4A84-8FE8-B8A9-0ED3C24CF990}</Project>
       <Name>VuforiaEditorScripts</Name>
     </ProjectReference>
     <ProjectReference Include="EditorMigrationScripts.csproj">
-      <Project>{E84A99D0-76CC-D616-7FEE-AA88D4AC0953}</Project>
+      <Project>{2A070E1E-5912-D95D-0D9F-393F299039D7}</Project>
       <Name>EditorMigrationScripts</Name>
     </ProjectReference>
   </ItemGroup>
