@@ -326,11 +326,11 @@
     <Reference Include="Unity.Analytics.Tracker">
       <HintPath>D:/Facultate/An 4/Semester 1/SE/Project/New folder/SE-Project/Library/PackageCache/com.unity.analytics@3.2.3/Editor/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
-    <Reference Include="USD.NET.Unity">
-      <HintPath>D:/Facultate/An 4/Semester 1/SE/Project/New folder/SE-Project/Library/PackageCache/com.unity.formats.usd@1.0.3-preview.2/Runtime/Plugins/USD.NET.Unity.dll</HintPath>
-    </Reference>
     <Reference Include="USD.NET">
       <HintPath>D:/Facultate/An 4/Semester 1/SE/Project/New folder/SE-Project/Library/PackageCache/com.unity.formats.usd@1.0.3-preview.2/Runtime/Plugins/USD.NET.dll</HintPath>
+    </Reference>
+    <Reference Include="USD.NET.Unity">
+      <HintPath>D:/Facultate/An 4/Semester 1/SE/Project/New folder/SE-Project/Library/PackageCache/com.unity.formats.usd@1.0.3-preview.2/Runtime/Plugins/USD.NET.Unity.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.4.30f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
