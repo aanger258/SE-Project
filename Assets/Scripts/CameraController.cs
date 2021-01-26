@@ -80,12 +80,12 @@ public class CameraController : MonoBehaviour
                     String json = json_py.Replace("True", "true");
                     Debug.Log("<color=green>QR Detected: </color> " + json);
 
-                    Inference inference = JsonConvert.DeserializeObject<Inference>(json);
-                    String inferenceText = inference.ToString();
+                    //Inference inference = JsonConvert.DeserializeObject<Inference>(json);
+                    //String inferenceText = inference.ToString();
 
                     //if (String.Compare(textMesh.text, inferenceText) != 0)
                     //{
-                    textMeshPro.text = inferenceText + "test";
+                    textMeshPro.text = json + "test";
                     //}
                     //text3D.SetActive(true);
                 }

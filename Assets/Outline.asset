@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Outline
   m_EditorClassIdentifier: 
   colorMode: 3
-  topLeft: {r: 1, g: 1, b: 1, a: 1}
-  topRight: {r: 1, g: 1, b: 1, a: 1}
-  bottomLeft: {r: 1, g: 1, b: 1, a: 1}
-  bottomRight: {r: 0.3490566, g: 0.3490566, b: 0.3490566, a: 1}
+  topLeft: {r: 0.96862745, g: 0.7647059, b: 0.70980394, a: 1}
+  topRight: {r: 0.9686275, g: 0.76470596, b: 0.70980394, a: 1}
+  bottomLeft: {r: 1, g: 0.65882355, b: 0.5019608, a: 1}
+  bottomRight: {r: 1, g: 0.6627451, b: 0.5058824, a: 1}

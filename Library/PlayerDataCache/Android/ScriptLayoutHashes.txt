@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-D:/Facultate/An 4/Semester 1/SE/Project/Lessori App/Vuforia Project/vuforia-ar/Builds/test_scene_v2.apk
+D:/Facultate/An 4/Semester 1/SE/Project/Lessori App/Vuforia Project/vuforia-ar/Builds/test_scene_v6.apk
 SceneListBegin?
 Assets/Scenes/Menu.unity
 Assets/Scenes/AR.unity
